@@ -7,7 +7,7 @@
 
 ## Requirements <a id="requirements"></a>
 
-In order to use the Dropbox upload driver, you'll need:
+In order to use the DigitalOcean upload driver, you'll need:
 
 * Python 3.4+
 * Pip3
